@@ -1,0 +1,12 @@
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.vbprojResolveAssemblyReference.cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Form1.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Resources.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.vbproj.GenerateResource.Cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.ConfirmDialog.resources
